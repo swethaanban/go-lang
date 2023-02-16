@@ -19,5 +19,3 @@ func handleRequests() {
 func main() {
 	handleRequests()
 }
-
-//test
