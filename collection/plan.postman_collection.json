@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "c8e13791-a157-4fd2-8192-cd5319183bd8",
+		"name": "plan",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25764638"
+	},
+	"item": [
+		{
+			"name": "create",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "getbyid",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "getall",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
